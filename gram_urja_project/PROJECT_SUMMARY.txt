@@ -1,0 +1,78 @@
+================================================================================
+                           GRAM URJA PROJECT
+           Geospatial Renewable Energy Assessment Platform
+================================================================================
+
+PROJECT DETAILS:
+- Team: Urja Vanni
+- Theme: Environmental Sustainability
+- College: CEC-CGC Landran, Mohali
+- Round: Ideathon Round 2 - Project Showcase
+
+TECHNOLOGY STACK:
+- Frontend: React.js with Material-UI
+- Backend: Python Flask with AI/ML
+- Database: PostgreSQL
+- APIs: NASA POWER, OpenWeatherMap, Sentinel Hub
+
+CORE FEATURES:
+✓ User Authentication (Login/Logout)
+✓ Village Search & Geocoding
+✓ Multi-source Data Collection (Solar, Wind, Biomass, Hydro)
+✓ Geospatial Analysis Engine
+✓ Energy Potential Scoring (0-100 for each type)
+✓ Limiting Factors Identification
+✓ Actionable Recommendations
+✓ Dynamic Interactive Visualizations
+✓ PDF Report Generation
+✓ Progress Tracking
+
+VISUALIZATIONS:
+- Bar Charts (energy comparison)
+- Pie Charts (energy distribution)
+- Line Graphs (trends)
+- Radar Charts (multi-dimensional)
+- Heatmaps (spatial analysis)
+- Interactive Maps (Leaflet/Folium)
+- Scatter Plots (correlations)
+
+AI/ML CAPABILITIES:
+- Predictive models for energy potential
+- Classification of limiting factors
+- Time series forecasting
+- Village clustering for comparison
+- Optimization algorithms
+
+FILES INCLUDED:
+- Complete backend (Python Flask)
+- Complete frontend (React.js)
+- Database models and migrations
+- API endpoints documentation
+- Docker configuration
+- Setup scripts
+- Comprehensive documentation
+
+QUICK START:
+1. Run quick_start.sh (Linux/Mac) or quick_start.bat (Windows)
+2. Edit .env files with your API keys
+3. Start backend: cd backend && python app.py
+4. Start frontend: cd frontend && npm start
+5. Open http://localhost:3000
+
+API KEYS NEEDED:
+- OpenWeatherMap: https://openweathermap.org/api (Free tier available)
+- NASA POWER: DEMO_KEY works for testing
+- Sentinel Hub: https://www.sentinel-hub.com/ (Optional)
+
+DOCUMENTATION:
+- README.md - Project overview and features
+- SETUP.md - Detailed installation guide
+- API_DOCS.md - API endpoints documentation
+- DEPLOYMENT.md - Production deployment guide
+
+CONTACT:
+For questions or support, refer to documentation or contact team.
+
+================================================================================
+           Together, we're mapping a cleaner future for all! 🌍💚
+================================================================================
