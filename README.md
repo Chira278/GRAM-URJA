@@ -70,12 +70,8 @@ http://localhost:3000
 
 🌐 Live Demo
 
-👉 Live Project Link:
-(Add your Vercel or GitHub Pages URL here)
-
-Example:
-
-https://gram-urja.vercel.app/
+## 👉 Live Project Link:
+https://gram-urja-s8oz.vercel.app/ 
 
 📌 Future Enhancements
 
